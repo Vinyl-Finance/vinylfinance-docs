@@ -6,7 +6,7 @@ description: Genesis Pools Launch Coming Soon!
 
 The Vinyl team has decided to utilize Genesis Pools for launch, similar to the origins of TOMB and BASED to foster initial protocol liquidity. We believe Genesis pools provide investors with value preservation, shielding them from 'sniper' bots and effectively decentralizing liquidity from being in the hands of a core team.&#x20;
 
-Participate in Genesis pools to maximize VINYL rewards, by earning the highest allocation during the initial expansion phase of the protocol.
+Genesis pools can maximize your VINYL rewards as the highest allocation is offered during the initial expansion phase of the protocol.
 
 ## Genesis Pools Timeline
 
@@ -22,12 +22,18 @@ The Genesis Pool will last for 3 days and be followed by four days of the Vinyl 
 
 **Weightings:** 33.3%, evenly distributed
 
-**Total Vinyl tokens:**  30,000
+**Total Vinyl tokens:**  8000
+
+There is a small one-time fee of 1% to participate in the Genesis pool. The funds raised during this period will be used to bootstrap development of our tNFT marketplace for Vinyl Stage 2.&#x20;
 
 ### **Vinyl reward pool (96 hrs)**
 
 * After the Genesis pool closes, the Vinyl reward pool opens
-* Stake your VINYL/FTM LP and accrue the remaining reward supply of Vinyl, distributed linearly across the reward pool timeline.&#x20;
+* Stake your VINYL/FTM LP and accrue the initial Vinyl rewards supply. Rewards will be distributed linearly across the reward pool timeline.&#x20;
 
-****
+**Pools:** VINYL/FTM LP
+
+**Weightings:** 33.3%, evenly distributed
+
+**Total Vinyl tokens:**  22000
 
