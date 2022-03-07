@@ -4,7 +4,7 @@ description: Learn about how tokens on Vinyl work
 
 # Tokens
 
-Please note that all official token contracts will be renounced as soon as they are deployed.
+_Please note that all official token contracts will be renounced as soon as they are deployed._
 
 ## VINYL: Vinyl Token
 
