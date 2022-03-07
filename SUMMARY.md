@@ -3,13 +3,13 @@
 * [Welcome!](README.md)
 * [Team](team.md)
 
-## ℹ Protocol Info
+## 🎙 Protocol Info
 
 * [Genesis Pools & Token Allocation](protocol-info/genesis-pools-and-token-allocation.md)
 * [Tokens](protocol-info/tokens.md)
 * [Expansion](protocol-info/expansion.md)
 
-## 📖 Guides
+## 🎼 Guides
 
 * [How To Buy Vinyl & Tracks](guides/how-to-buy-vinyl-and-tracks.md)
 
