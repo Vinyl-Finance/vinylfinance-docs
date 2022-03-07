@@ -8,6 +8,8 @@ The Vinyl team has decided to utilize Genesis Pools for launch, similar to the o
 
 Genesis pools can maximize your VINYL rewards as the highest allocation is offered during the initial expansion phase of the protocol.
 
+_Genesis Pool start time to be announced_
+
 ## Genesis Pools Timeline
 
 The Genesis Pool will last for 3 days and be followed by four days of the Vinyl Reward Pool.&#x20;
