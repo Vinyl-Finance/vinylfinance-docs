@@ -4,6 +4,8 @@ description: Learn about how tokens on Vinyl work
 
 # Tokens
 
+Please note that all official token contracts will be renounced as soon as they are deployed.
+
 ## VINYL: Vinyl Token
 
 The VINYL token is designed to be used as a medium of exchange. The built-in stability mechanism in the protocol aims to maintain the VINYL peg to 1 FTM token over time.
