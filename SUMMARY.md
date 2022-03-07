@@ -8,6 +8,7 @@
 * [Genesis Pools & Token Allocation](protocol-info/genesis-pools-and-token-allocation.md)
 * [Tokens](protocol-info/tokens.md)
 * [Expansion](protocol-info/expansion.md)
+* [Roadmap](protocol-info/roadmap.md)
 
 ## 🎼 Guides
 
