@@ -17,5 +17,6 @@
 ## 🔗 Links
 
 * [Twitter](https://twitter.com/vinyl\_finance)
+* [Discord](https://t.co/C0iMbbP84c)
 * [VINYL Chart](https://dexscreener.com/fantom/0x)
 * [TRACKS Chart](https://dexscreener.com/fantom/0x)
