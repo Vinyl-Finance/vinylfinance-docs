@@ -1,9 +1,12 @@
 ---
 sidebar_label: 'Contracts'
 sidebar_position: 5
+title: 'Contracts'
+description: 'asdf'
+doc-id: 'contracts'
 ---
 
-# Contracts
+<!-- # Contracts -->
 
 ## Tokens
 _All token contracts are renounced!_
@@ -14,6 +17,7 @@ _All token contracts are renounced!_
 
 [CD](https://ftmscan.com/tx/0xeea21900b8cf2a11f3994b075640a15708db60d87d0db20114cfd5dd8d22af50): 0x8ba226fc399aac87c215aeb692af542b751665b6 **[renounced](https://ftmscan.com/tx/0xeea21900b8cf2a11f3994b075640a15708db60d87d0db20114cfd5dd8d22af50)**
 
+______
 ## Protocol
 
 [Treasury](https://ftmscan.com/address/0xe0356010a513950a762d6ee73f0a3a4e62756790): 0xe0356010A513950A762D6eE73f0A3A4e62756790
@@ -26,6 +30,7 @@ _All token contracts are renounced!_
 
 [Zapper](https://ftmscan.com/address/0x8bb1fe7a50082623b372d857b4d07911c786a3e9): 0x8bb1fe7a50082623b372d857b4d07911c786a3e9
 
+______
 
 ## Pools
 
@@ -34,7 +39,7 @@ _All token contracts are renounced!_
 [VinylRewardPool](https://ftmscan.com/address/0x80a6089dd0b2543a2a143bdb7bff54a91a0d1e39): 0x80a6089dD0b2543A2A143bdb7BFF54A91A0d1e39
 
 [TracksRewardPool](https://ftmscan.com/address/0x9a687a9e95b58f63b0c835646c6a852d753d77dd): 0x9A687a9e95B58f63B0c835646c6a852d753d77Dd
-
+______
 ## Wallets
 
 [DAO Wallet](https://ftmscan.com/address/0x3c811c0b7c4ac2a59f490cdf114099d8173a21e1): 0x3c811c0b7c4ac2a59f490cdf114099d8173a21e1

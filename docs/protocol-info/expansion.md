@@ -1,6 +1,8 @@
 ---
 sidebar_label: 'Expansion'
 sidebar_position: 2
+title: 'Expansion'
+doc-id: 'expansion'
 ---
 
 :::info
