@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvinyl_docusor=self.webpackChunkvinyl_docusor||[]).push([[188],{7048:function(e){e.exports=JSON.parse('{"permalink":"/vinylfinance-docs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

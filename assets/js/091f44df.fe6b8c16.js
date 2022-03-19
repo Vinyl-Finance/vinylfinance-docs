@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvinyl_docusor=self.webpackChunkvinyl_docusor||[]).push([[428],{6232:function(l){l.exports=JSON.parse('{"allTagsPath":"/vinylfinance-docs/blog/tags","slug":"/vinylfinance-docs/blog/tags/hello","name":"hello","count":2,"permalink":"/vinylfinance-docs/blog/tags/hello"}')}}]);
