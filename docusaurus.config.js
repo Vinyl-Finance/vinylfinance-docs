@@ -14,7 +14,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'VinylFinance', // Usually your GitHub org/user name.
-  projectName: 'vinyl-docsusor', // Usually your repo name.
+  projectName: 'vinyl-docs', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
