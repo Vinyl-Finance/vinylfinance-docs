@@ -1,6 +1,8 @@
 ---
 sidebar_label: 'Welcome!'
 sidebar_position: 0
+docId: 'welcome'
+slug: 'welcome'
 ---
 
 # Welcome!
