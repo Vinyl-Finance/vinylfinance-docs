@@ -1,6 +1,8 @@
 ---
 sidebar_label: 'Contraction'
 sidebar_position: 3
+title: 'Contraction'
+doc-id: 'contraction'
 ---
 
 # Contraction Phase

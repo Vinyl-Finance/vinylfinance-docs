@@ -2,7 +2,6 @@
 sidebar_label: 'Contracts'
 sidebar_position: 5
 title: 'Contracts'
-description: 'asdf'
 doc-id: 'contracts'
 ---
 
