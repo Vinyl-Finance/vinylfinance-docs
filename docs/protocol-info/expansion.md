@@ -14,6 +14,10 @@ After the Genesis Pools end, main protocol launches and the expansion phase begi
 
 There is also the [Shop](https://vinyl.finance/shop) where CDs, aka bonds, are sold and redeemed for a premium. All three of these entities, the Club, Studio and Shop work together to ensure a healthy seigniorage protocol for maintaining VINYL's 1:1 peg to FTM.
 
+:::tip
+You can find a helpful guide for how to best maximize profits will ensuring the health of the protocol [here](/docs/guides/profit-strategies)
+:::
+___
 ## Vinyl Expansion
 
 ### The Studio

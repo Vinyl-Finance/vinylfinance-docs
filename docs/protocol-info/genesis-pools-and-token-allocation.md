@@ -14,7 +14,9 @@ In total **40,000 VINYL** will be distributed in this initial expansion phase.
 
 To participate head to the [Club](https://vinyl.finance/club)!
 
-_Genesis Pool start time is March 12th at 18:00 GMT_
+_Genesis Pool start time was March 12th at 18:00 GMT_
+
+___
 
 ## Genesis Pools Timeline
 

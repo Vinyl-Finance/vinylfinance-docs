@@ -7,9 +7,11 @@ slug: 'welcome'
 
 # Welcome!
 
-_Welcome to Vinyl Finance, home to the grooviest algorithmic token fork pegged to $FTM on the Fantom Opera network and first of its kind Vinyl tNFT Marketplace_
+Welcome to Vinyl Finance, home to the grooviest algorithmic token fork pegged to $FTM on the Fantom Opera network and first of its kind Vinyl tNFT Marketplace
 
 This documentation is intended to take you through the entire process of how to participate in the Vinyl Finance protocol to earn consistent high yields in a safe and secure manner.
+
+___
 
 ## Our Origin Story
 

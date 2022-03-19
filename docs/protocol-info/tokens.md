@@ -7,6 +7,7 @@ description: Learn about how tokens on Vinyl work
 # Tokens
 
 **Please note that all official token contracts are renounced**
+___
 
 ## VINYL: Vinyl Token
 

@@ -17,6 +17,12 @@ VINYL is burned in order to maintain the 1:1 FTM peg in exchange for CDs.
 
 _Yeah, don't really care for cd's either but let's face it... they made access to music more accessible than vinyl. That said, vinyl clearly always makes a pop culture resurgence!_ Expect the same from the tokens. **Swapping VINYL for CDs helps the longevity of the protocol by assisting to maintain the peg**. Plus you get some fat premiums upon redemption!
 
+:::tip
+You can find a helpful guide for how to best maximize profits will ensuring the health of the protocol [here](/docs/guides/profit-strategies)
+:::
+___
+
+
 ## Purchasing CDs, aka Bonds
 The [Shop](https://vinyl.finance/shop) is where CDs, aka bonds, are sold and redeemed for a premium. It is open for business when the last epoch's TWAP, time weighted average price, for VINYL compared to FTM is under 1.00. 
 
