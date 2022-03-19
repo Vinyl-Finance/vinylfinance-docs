@@ -9,13 +9,14 @@ const config = {
   title: 'Vinyl Finance',
   tagline: 'The grooviest algo coin on FTM and first of its kind vinyl tNFT marketplace',
   url: 'https://vinyl.finance',
-  baseUrl: '/',
+  baseUrl: '/vinylfinance-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'VinylFinance', // Usually your GitHub org/user name.
-  projectName: 'vinyl-docs', // Usually your repo name.
+  organizationName: 'Vinyl-Finance', // Usually your GitHub org/user name.
+  projectName: 'vinylfinance-docs', // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
   presets: [
     [

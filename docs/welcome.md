@@ -29,17 +29,17 @@ Stage 2 of Vinyl Finance is tNFT (tangible NFT) marketplace where VINYL is the n
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="protocol-info/genesis-pools-and-token-allocation.md" %}
+<!-- {% content-ref url="protocol-info/genesis-pools-and-token-allocation.md" %}
 [genesis-pools-and-token-allocation.md](protocol-info/genesis-pools-and-token-allocation.md)
-{% endcontent-ref %}
+{% endcontent-ref %} -->
 
 ### Fundamentals: Dive a little deeper
 
 Learn the fundamentals of Vinyl to get a deeper understanding of our main features:
 
-{% content-ref url="guides/how-to-buy-vinyl-and-tracks.md" %}
+<!-- {% content-ref url="guides/how-to-buy-vinyl-and-tracks.md" %}
 [how-to-buy-vinyl-and-tracks.md](guides/how-to-buy-vinyl-and-tracks.md)
-{% endcontent-ref %}
+{% endcontent-ref %} -->
 
 ### Disclaimer
 
