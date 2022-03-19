@@ -8,7 +8,7 @@ doc-id: 'contracts'
 <!-- # Contracts -->
 
 ## Tokens
-_All token contracts are renounced!_
+**All token contracts are renounced!**
 
 [VINYL](https://ftmscan.com/address/0x08a3830758a82337b776ed9af7685c155ced94ea): 0x08a3830758a82337b776ed9af7685c155ced94ea **[renounced](https://ftmscan.com/tx/0x0e800f0bbbca88202345ed5c42bd10bc5b8de5f371beb8b209b789d3f9f3529d)**
 

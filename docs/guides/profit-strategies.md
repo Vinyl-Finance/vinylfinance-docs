@@ -16,7 +16,7 @@ Step 1: Purchase VINYL to form a VINYL-FTM LP
 
 Step 2:  Stake your VINYL-FTM liquidity pair in the Club to earn TRACKS. 
 
-Step 3: Sell a portion of your TRACKS (40%) for VINYL and FTM to create more VINYL-FTM lp.
+Step 3: Sell a portion of your reward TRACKS (40%) for VINYL and FTM to create more VINYL-FTM lp.
 
 Step 4: Compound your new VINYL-FTM LP in in the Club
 
