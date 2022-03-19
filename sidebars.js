@@ -43,6 +43,32 @@ const sidebars = {
         'guides/profit-strategies', 
       ],
     },
+    {
+      type: 'category',
+      label: 'Links 🔗',      
+      items: [
+        {
+          type: 'link',
+          label: 'Twitter',
+          href: 'https://twitter.com/vinyl_finance',
+        },
+        {
+          type: 'link',
+          label: 'Discord',
+          href: 'https://discord.gg/VqwsjEFVzc',
+        },
+        {
+          type: 'link',
+          label: 'Vinyl Chart',
+          href: 'https://www.defined.fi/ftm/0x30b2b4c9b7a6d2840a0d6be07778dace3e08e756?cache=2efe3',
+        },
+        {
+          type: 'link',
+          label: 'Tracks Chart',
+          href: 'https://www.defined.fi/ftm/0x56a596a8b0dd8d3af0c60006261f8963b0c217c3?cache=7012d',
+        }
+      ],
+    },
   ],
 };
 

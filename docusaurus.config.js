@@ -73,15 +73,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Protocol Info',
-                to: '/docs/protocol-info',
-              },
-            ],
-          },
-          {
             title: 'Community',
             items: [
               {
@@ -95,20 +86,29 @@ const config = {
             ],
           },
           {
+            title: 'Contact Us',
+            items: [
+              {
+                label: 'Email',
+                to: 'mailto:defivinylfinance@gmail.com',
+              },
+            ],
+          },
+          {
             title: 'More',
             items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/Vinyl-Finance',
               },
+              {
+                label: 'Nice Timing',
+                href: 'https://www.realnicetiming.com/',
+              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Vinyl Finance. Built with ❤️.`,
       },
       prism: {
         theme: lightCodeTheme,
