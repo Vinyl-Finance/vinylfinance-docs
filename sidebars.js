@@ -45,6 +45,14 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Security 🔒',
+      items: [
+        'security/kyc',
+        'security/renounced'
+      ],
+    },
+    {
+      type: 'category',
       label: 'Links 🔗',      
       items: [
         {
