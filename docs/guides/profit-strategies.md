@@ -18,14 +18,14 @@ Step 2:  Stake your VINYL-FTM liquidity pair in the Club to earn TRACKS.
 
 Step 3: Buy more VINYL and combine with your TRACKS rewards to create VINYL-TRACKS LP Tokens.
 
-Step 4: Stake your new VINYL-TRACKS LP in in the Club's VINYL-TRACKS rewards pool!
+Step 4: Stake your new VINYL-TRACKS LP in in the Club's VINYL-TRACKS reward pool.
 
 Step 5: Repeat, which helps the protocol and builds wealth even while under peg.
 ____
 
 ### TWAP Between 1.0 & 2.0 (1 FTM < VINYL < 2 FTM)
 
-Goal: This is the ideal zone for the price of VINYL and we would like to keep it here. Stop selling the VINYL rewards at this point and let the rewards compound. 
+Goal: This is the ideal zone for the price of VINYL and we would like to keep it here. We should not be selling our VINYL rewards at this point and continue to let the rewards compound. 
 
 Step 1: Purchase VINYL to form an VINYL-FTM LP
 
@@ -34,9 +34,7 @@ Step 2: Stake your VINYL-FTM liquidity pair in the Club to earn TRACKS.
 Step 3: Stake your earned TRACKS in the Studio to earn VINYL.
 Take a 10% portion of your VINYL and TRACKS rewards as profit (optional).
 
-Step 4: Create an LP with your TRACKS and earned VINYL from the Studio to form VINYL-TRACKS LP tokens. 
-or
-create more VINYL-FTM LP tokens.
+Step 4: Create an LP with your TRACKS and earned VINYL from the Studio to form VINYL-TRACKS LP tokens or create more VINYL-FTM LP tokens.
 
 Step 5: Compound your VINYL-TRACKS LP or VINYL-TRACKS LP in the Club's reward pool.
 
