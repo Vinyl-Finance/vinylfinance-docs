@@ -26,7 +26,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           breadcrumbs: false,
-          sidebarCollapsible: false,
+          sidebarCollapsible: true,
           editUrl: 'https://github.com/Vinyl-Finance/vinylfinance-docs',
         },
         blog: {
