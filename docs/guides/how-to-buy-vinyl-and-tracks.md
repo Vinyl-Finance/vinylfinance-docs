@@ -5,7 +5,7 @@ title: 'How to Buy Vinyl & Tracks'
 doc-id: 'how-to-buy'
 # slug: how-to-buy
 ---
-
+____
 ### Buy VINYL
 
 1. Go to [SpookySwap](https://spookyswap.finance/swap?outputCurrency=0x08a3830758A82337b776ed9aF7685c155cED94Ea)

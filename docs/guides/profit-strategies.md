@@ -6,8 +6,10 @@ title: 'Vinyl Strategies'
 # slug: how-to-buy
 ---
 
+:::info
 Below are certain optimal strategies for protocol health depending on the TWAP of VINYL. 
-
+:::
+____
 ### TWAP Below 1.0 (VINYL < 1 FTM)
 
 Goal: VINYL is below peg. We want to bring it back to or above peg quickly and sustainably. Continuing holding, buying, or otherwise burning VINYL (through buying CDs (bond), raffles or other future initiatives). 

@@ -5,7 +5,7 @@ title: 'Contracts'
 doc-id: 'contracts'
 ---
 
-<!-- # Contracts -->
+____
 
 ## Tokens
 :::info
