@@ -23,6 +23,8 @@ Step 3: Buy more VINYL and combine with your TRACKS rewards to create VINYL-TRAC
 Step 4: Stake your new VINYL-TRACKS LP in in the Club's VINYL-TRACKS reward pool.
 
 Step 5: Repeat, which helps the protocol and builds wealth even while under peg.
+
+![Zone1 Infographic](/img/ZONE1.jpg)
 ____
 
 ### TWAP Between 1.0 & 2.0 (1 FTM < VINYL < 2 FTM)
